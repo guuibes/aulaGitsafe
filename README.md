@@ -1,1 +1,3 @@
 # aulaGitsafe
+
+EXEMPLO NÉ FI
